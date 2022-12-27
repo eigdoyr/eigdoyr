@@ -1,30 +1,19 @@
-# hello 👋 i'm ryodgie 
-**`Front-end Developer | Web Designer | Customer Advocate`**
+# Hello 👋 I'm Ryodgie 
+**`Front-end Developer 🤖 Web Designer 🚀 Customer Advocate`**
 <!--
 **ryodgie/ryodgie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
-
-
-
-
-
-I'm a Web Developer and Customer Advocate building my version of the digital world one step at a time. 
 
 I have 7~ years of experience in Business Process Outsourcing. I've worked for Publishing company and I've experienced working from front to back office- customer service, escalation resolution, digital and website services.
 
-Away from the keyboard, I enjoy multiple things like photo-walk, petting dogs, reading good books while having my cup of tea or coffee.
+Away from the keyboard, I like doing photo-walk, petting dogs, reading good books while having my cup of tea or making myself a coffee.
 
+- 🌱 I’m currently learning: Vue, Nuxt 
+- ⚡ Fun fact: I eat apple daily
 
 ---
 
