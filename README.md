@@ -8,8 +8,9 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 I’m currently learning: Vue, Nuxt 
+- 🌱 I’m currently learning: Vue 3, Nuxt 
 - ⚡ Fun fact: I eat apple daily
+- 💓 I like: coffee, pink skies, sandwiches, the1975, chandler, memoir
 
 #### Away from the keyboard, I like doing photo-walk, petting dogs, reading good books while having my cup of tea or making myself a coffee.
 ---
