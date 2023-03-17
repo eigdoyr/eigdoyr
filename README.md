@@ -1,4 +1,4 @@
-# Hello 👋 I'm Ryodgie 
+# Hi 👋 
 **`Front-end Developer 🤖 Web Designer 🚀 Customer Advocate`**
 <!--
 **ryodgie/ryodgie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
