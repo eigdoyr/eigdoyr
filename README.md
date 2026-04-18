@@ -1,10 +1,8 @@
 # Hi 👋 I'm Ryodgie Barnatia
-**`Visual & Web Designer 🎨 Front-end Developer`**
-
-I'm a visual designer whose primary focus is building clean web interfaces and digital experiences. I recently wrapped up a role as a Graphic Designer crafting visual datasets for AI training models. While I love learning new tech online and diving into code from time to time, my heart ultimately belongs to design.
+**`UI Designer & Front-End Developer`**
 
 - 🚀 **Building:** My personal portfolio.
-- 🌱 **Exploring:** Web UI + AI, endless layout iterations, and finding the perfect classic serif to pair with modern sans-serifs.
+- 🌱 **Exploring:** Web UI + AI
 - ☕️ **Offline:** You'll find me out on a photo-walk, petting every dog I see, enjoying a really good cup of coffee, or hunting down my next mechanical keyboard.
 
 ---
