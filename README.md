@@ -22,18 +22,6 @@ Lately I've been into open source and exploring AI tools.
 Writing ideas down in my notes.
 ```
 
-### Currently
-
-```txt
-→ filipino-food-api    open REST API for Filipino cuisine
-→ mockymocks           open-source mockup tool, in the works
-```
-
-<sub>
-  <a href="https://github.com/eigdoyr/filipino-food-api">filipino-food-api</a> ·
-  <code>mockymocks</code> (coming soon)
-</sub>
-
 ### Stack
 
 ```txt
